@@ -1,0 +1,22 @@
+input{
+    display:block;
+    margin: 0 auto;
+    width: 200px;
+    border: 5px solid rebeccapurple;
+    padding: 15px;
+    border-radius: 15px;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 12px;
+    border-radius: 15px;
+    padding: 10px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 90px;
+    padding: 15px;
+      
+}
